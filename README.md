@@ -17,7 +17,7 @@
 
 - 📫 You can reach me at **krishna.2303604@icloud.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13FO62g-wN-6mGVJBMdVr1QE3913OgR_J/view?usp=sharing]([https://drive.google.com/file/d/1OUheQggRh8MB9A3HZVNuEZq10iMaHADF/view?usp=sharing])
+- 📄 Know about my experiences [https://drive.google.com/file/d/1OUheQggRh8MB9A3HZVNuEZq10iMaHADF/view?usp=sharing]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

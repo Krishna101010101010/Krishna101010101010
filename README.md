@@ -1,6 +1,6 @@
 [![MasterHead](https://media.licdn.com/dms/image/v2/C5616AQF14Mx1giJsZA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1640157772992?e=1758758400&v=beta&t=JmBetNeiO_6Irp-Aj54ie6K__BtTaitM9oP5dk1fBUg)](https://www.linkedin.com/in/krishna-srivastava-the-achiever/)
 <h1 align="center">Hey There 👋, I'm Krishna Shrivastav</h1>
-<h3 align="center">AI Researcher | ML Engineer | Builder of Intelligent Systems</h3>
+<h3 align="center">AI/ML Engineer | Builder of Intelligent Systems</h3>
 <img align="right” alt="coding” width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif”>
  
 <p align="left"> <a href="https://twitter.com/krishnashr34553" target="blank"><img src="https://img.shields.io/twitter/follow/krishnashr34553?logo=twitter&style=for-the-badge" alt="krishnashr34553" /></a> </p>

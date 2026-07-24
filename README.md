@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQGt-__JluaDuA/profile-displaybackgroundimage-shrink_350_1400/B56ZpnLxe_HkAY-/0/1762667733063?e=1786579200&v=beta&t=JsOfqYF6t6nMPdIeK-s9lJt8JEQPCzNBELHplVyJri4)
+![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQGt-__JluaDuA/profile-displaybackgroundimage-shrink_350_1400/B56ZpnLxe_HkAY-/0/1762667733063?e=1786579200&v=beta&t=JsOfqYF6t6nMPdIeK-s9lJt8JEQPCzNBELHplVyJri4)
 <h1 align="center">Hey There 👋, I'm Krishna Shrivastav</h1>
 <h3 align="center">AI/ML Engineer | Builder of Intelligent Systems</h3>
 <img align="right” alt="coding” width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif”>

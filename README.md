@@ -1,35 +1,114 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQGt-__JluaDuA/profile-displaybackgroundimage-shrink_350_1400/B56ZpnLxe_HkAY-/0/1762667733063?e=1786579200&v=beta&t=JsOfqYF6t6nMPdIeK-s9lJt8JEQPCzNBELHplVyJri4)
-<h1 align="center">Hey There 👋, I'm Krishna Shrivastav</h1>
-<h3 align="center">AI/ML Engineer | Builder of Intelligent Systems</h3>
-<img align="right” alt="coding” width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif”>
- 
-<p align="left"> <a href="https://twitter.com/krishnashr34553" target="blank"><img src="https://img.shields.io/twitter/follow/krishnashr34553?logo=twitter&style=for-the-badge" alt="krishnashr34553" /></a> </p>
+<div align="center">
 
-- 🔭 I’m currently working on [Research Paper Implimentations, Studying Deeptech & GRACE – Gesture & Voice Recognition Engine (HCI project)](https://github.com/Krishna101010101010/Grace)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00F0FF,100:FF00E5&height=240&section=header&text=KRISHNA%20SHRIVASTAV&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Builder%20of%20Intelligent%20Systems&descAlignY=58&descSize=16" width="100%" alt="header"/>
 
-- 🌱 I’m currently learning **Reinforcement learning & Multimodal LLMs (vision, language and audio) as well as the core concepts of Deep Learning and GenAI**
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=720&height=50&lines=%3E+Initializing+Krishna.exe+...;%3E+Building+intelligent+systems;%3E+Computer+Vision+%7C+NLP+%7C+GenAI+%7C+RL;%3E+Currently+shipping%3A+GRACE+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-- 👯 I’m looking to collaborate on **•Research projects in Computer Vision, NLP, GenAI, Reinforcement Learning & •AI-powered products for healthcare, education, or smart systems**
-
-- 🤝 I’m looking for **AI Engineering, ML Research Engineering, RAGs, Fine Tuning and other AI/ML related projects.**
-
-- 👨‍💻 All of my projects can be accessed [https://github.com/Krishna101010101010](https://github.com/Krishna101010101010)
-
-- 📫 You can reach me at **krishna.2303604@icloud.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1OUheQggRh8MB9A3HZVNuEZq10iMaHADF/view?usp=sharing]
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/krishnashr34553" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="krishnashr34553" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/krishna-srivastava-the-achiever/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishna-srivastava-the-achiever/" height="30" width="40" /></a>
-<a href="https://instagram.com/krishna.sunspot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krishna.sunspot" height="30" width="40" /></a>
+<p>
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00F0FF?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/FOCUS-AI%2FML-FF00E5?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/OPEN%20TO-COLLABS-00F0FF?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://komarev.com/ghpvc/?username=Krishna101010101010&label=VIEWS&color=FF00E5&style=for-the-badge&labelColor=0D1117" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishna101010101010&show_icons=true&locale=en&layout=compact" alt="krishna101010101010" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishna101010101010&show_icons=true&locale=en" alt="krishna101010101010" /></p>
+## `> whoami`
 
+```python
+class Krishna:
+    role      = "AI/ML Engineer"
+    building  = ["Research Paper Implementations", "GRACE (Gesture & Voice Engine)"]
+    learning  = ["Reinforcement Learning", "Multimodal LLMs", "Deep Learning", "GenAI"]
+    looking_for = ["AI Engineering", "ML Research Engineering", "RAG", "Fine-Tuning"]
+    open_to_collab = True
+
+    def say_hi(self):
+        return "Let's build something intelligent."
+```
+
+---
+
+## `> current_mission`
+
+| 🔭 Building | 🌱 Learning | 👯 Collaborating on |
+|:---|:---|:---|
+| Research paper implementations | Reinforcement Learning | Computer Vision, NLP, GenAI, RL research |
+| Deeptech deep dives | Multimodal LLMs (vision, language, audio) | AI products for healthcare, education, smart systems |
+| [GRACE: Gesture & Voice Recognition Engine](https://github.com/Krishna101010101010/Grace) | Core Deep Learning and GenAI | RAG, fine-tuning, AI engineering projects |
+
+---
+
+## `> featured_projects`
+
+<div align="center">
+
+<a href="https://github.com/Krishna101010101010/Grace">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishna101010101010&repo=Grace&theme=transparent&hide_border=false&border_color=00F0FF&title_color=00F0FF&icon_color=FF00E5&text_color=C9D1D9&bg_color=0D1117" alt="GRACE" />
+</a>
+
+<!--
+Add more project cards by copying the block above and changing the repo name:
+
+<a href="https://github.com/Krishna101010101010/YOUR_REPO">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishna101010101010&repo=YOUR_REPO&hide_border=false&border_color=00F0FF&title_color=00F0FF&icon_color=FF00E5&text_color=C9D1D9&bg_color=0D1117" />
+</a>
+-->
+
+<br/>
+
+<a href="https://github.com/Krishna101010101010?tab=repositories"><img src="https://img.shields.io/badge/VIEW%20ALL%20PROJECTS-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF" /></a>
+
+</div>
+
+---
+
+## `> tech_stack`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,cpp,c,java,matlab&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=html,css,nodejs,nestjs,firebase,mongodb,mysql,postgres&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=aws,gcp,heroku,git,linux,postman,figma,framer&theme=dark" /><br/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" height="40" alt="pandas" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="scikit-learn" />
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40" alt="seaborn" />
+
+</div>
+
+---
+
+## `> stats.log`
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Krishna101010101010&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF00E5&text_color=C9D1D9&ring_color=00F0FF&locale=en" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna101010101010&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&langs_count=8" />
+
+<img src="https://streak-stats.demolab.com?user=Krishna101010101010&hide_border=true&background=0D1117&ring=FF00E5&fire=FF00E5&currStreakLabel=00F0FF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=00F0FF&dates=8B949E" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Krishna101010101010&bg_color=0D1117&color=00F0FF&line=FF00E5&point=FFFFFF&area=true&area_color=00F0FF&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+## `> connect`
+
+<div align="center">
+
+<a href="https://linkedin.com/in/krishna-srivastava-the-achiever/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F0FF" /></a>
+<a href="https://twitter.com/krishnashr34553"><img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=x&logoColor=FF00E5" /></a>
+<a href="https://instagram.com/krishna.sunspot"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00F0FF" /></a>
+<a href="mailto:krishna.2303604@icloud.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=icloud&logoColor=FF00E5" /></a>
+<a href="https://drive.google.com/file/d/1OUheQggRh8MB9A3HZVNuEZq10iMaHADF/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-0D1117?style=for-the-badge&logo=googledrive&logoColor=00F0FF" /></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00E5,50:00F0FF,100:0D1117&height=120&section=footer" width="100%" alt="footer"/>
+
+</div>
